@@ -1,0 +1,25 @@
+* {
+    /* how to reset your css ? */
+}
+
+:root {
+    /* maybe make a default doc width? */
+}
+
+body {
+    /* how to make a background image ? */
+    
+    /* do you need height and width ? */
+}
+
+#doc {
+     /* you need display and position  */
+}
+
+.doc-icon {
+    /* give a width and slow down the hover animation */
+}
+
+.doc-icon:hover {
+    /* make the animation you like */
+}
